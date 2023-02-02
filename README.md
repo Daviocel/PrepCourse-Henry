@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del modulo 2 de PrepCourse de Henry
+David José Alcocel
+
+Este es una prueba de como crear un repositorio en GitHub y clonarlo en el escritorio
